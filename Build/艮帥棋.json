@@ -1,0 +1,14 @@
+{
+"companyName": "Li Tr",
+"productName": "艮帥棋",
+"dataUrl": "艮帥棋.data.unityweb",
+"asmCodeUrl": "艮帥棋.asm.code.unityweb",
+"asmMemoryUrl": "艮帥棋.asm.memory.unityweb",
+"asmFrameworkUrl": "艮帥棋.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "艮帥棋.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF"
+}
